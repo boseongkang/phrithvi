@@ -1,8 +1,7 @@
 ## Visualizations
 
 ### Training Curves
-![Training Curves]
-<img width="1389" height="490" alt="Image" src="https://github.com/user-attachments/assets/2512aae9-39a1-4526-881d-4434a0cd027b" />
+![Training Curves]<img width="1389" height="490" alt="Image" src="https://github.com/user-attachments/assets/2512aae9-39a1-4526-881d-4434a0cd027b" />
 
 
 **Left**: Train loss decreases steadily from ~1.4 to ~0.07 over 47 epochs, indicating stable learning.  
@@ -11,8 +10,7 @@
 ---
 
 ### Test Predictions
-![Test Predictions]
-<img width="1559" height="2357" alt="Image" src="https://github.com/user-attachments/assets/f7059837-7f58-4e94-84d9-6f8eef57da29" />
+![Test Predictions]<img width="1559" height="2357" alt="Image" src="https://github.com/user-attachments/assets/f7059837-7f58-4e94-84d9-6f8eef57da29" />
 
 Each row shows one 128×128 patch from the test set containing a fault. Columns from left to right:
 
